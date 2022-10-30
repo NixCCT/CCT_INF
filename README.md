@@ -12,13 +12,14 @@
 
  ## Information
 
- This tool is for educational purpose only, usage of TheFatRat for attacking targets without prior mutual consent is illegal.
+ This tool is for educational purpose only, usage of CCT_INF for attacking targets without prior mutual consent is illegal.
 
 Developers assume no liability and are not responsible for any misuse or damage cause by this program.
 
 #requirements libs
 
 ```bash
+pyfiglet
 
 os
 
