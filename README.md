@@ -53,7 +53,7 @@ git clone https://github.com/NixCCT/CCT_INF.git
 
 cd CCT_INF
 
-python3 CCT_INF.py
+python3 start.py
 
 ```
 
