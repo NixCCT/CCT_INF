@@ -6,7 +6,7 @@
 
 ### CCT INF 
 
-![Banner]()
+![usseCCT](https://user-images.githubusercontent.com/117029428/198891132-dc79f715-abd4-4867-8bc8-bd2cd4df443e.png)
 
 **CC INF** It is a script *made in Python* whose main objective is to obtain information from an IP address, *information from your IP*, Information from a web page, *geolocate by means of IP*, Perform a *Denial of Service *(DoS) attack 
 
